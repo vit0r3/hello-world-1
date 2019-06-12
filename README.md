@@ -30,3 +30,5 @@ Link para a [folha de macetes](https://github.com/adam-p/markdown-here/wiki/Mark
 
 [:finnadie:](https://gist.github.com/rxaviers/7360908)
 
+E ae Fessor, só na boa?? :+1::+1::+1:
+
