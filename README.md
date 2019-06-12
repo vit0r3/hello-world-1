@@ -10,6 +10,8 @@ Link para a [folha de macetes](https://github.com/adam-p/markdown-here/wiki/Mark
 
 [Guia Hello World](https://guides.github.com/activities/hello-world/)
 
+---
+
 ### Kauã
 [:mount_fuji:](https://gist.github.com/rxaviers/7360908)
 
