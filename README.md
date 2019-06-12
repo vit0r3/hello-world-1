@@ -16,5 +16,9 @@ Link para a [folha de macetes](https://github.com/adam-p/markdown-here/wiki/Mark
 ### Marcos
 [:dragon_face:](https://gist.github.com/rxaviers/7360908)
 
+### Adryel
+[:neckbeard:](https://github.com/adryel97)
+
 ### Matheus
 [:guardsman:](https://gist.github.com/rxaviers/7360908)
+
