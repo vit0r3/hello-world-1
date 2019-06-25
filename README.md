@@ -32,3 +32,4 @@ Link para a [folha de macetes](https://github.com/adam-p/markdown-here/wiki/Mark
 
 E ae Fessor, só na boa?? :+1::+1::+1:
 
+:godmode:
